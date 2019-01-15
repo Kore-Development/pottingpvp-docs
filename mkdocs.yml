@@ -1,9 +1,13 @@
 site_name: PottingPvP
 theme:
   name: material
+  language: 'en'
+  favicon: 'assets/images/favicon.svg'
   palette:
     primary: 'deep orange'
     accent: 'deep orange'
+  logo:
+    icon: 'games'
 markdown_extensions:
   - admonition
   - codehilite
