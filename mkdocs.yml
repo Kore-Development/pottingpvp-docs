@@ -4,3 +4,8 @@ theme:
   palette:
     primary: 'deep orange'
     accent: 'deep orange'
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
