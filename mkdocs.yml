@@ -1,4 +1,6 @@
 site_name: PottingPvP
+repo_name: 'Kore-Development/pottingpvp-docs'
+repo_url: 'https://github.com/Kore-Development/pottingpvp-docs'
 theme:
   name: material
   language: 'en'
