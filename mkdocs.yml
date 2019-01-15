@@ -1,7 +1,8 @@
 site_name: PottingPvP
-theme:
-  name: null
-  custom_dir: 'mkdocs-material/material'
-  palette:
-    primary: 'deep orange'
-    accent: 'deep orange'
+theme: readthedocs
+# theme:
+#   name: null
+#   custom_dir: 'mkdocs-material/material'
+#   palette:
+#     primary: 'deep orange'
+#     accent: 'deep orange'
