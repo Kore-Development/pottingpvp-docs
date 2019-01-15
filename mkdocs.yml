@@ -4,7 +4,7 @@ repo_url: 'https://github.com/Kore-Development/pottingpvp-docs'
 theme:
   name: material
   language: 'en'
-  favicon: 'favicon.svg'
+  favicon: 'favicon.ico'
   palette:
     primary: 'deep orange'
     accent: 'deep orange'
